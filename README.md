@@ -9,7 +9,7 @@ I switched to programmation because I'm a problem solver, I love learning (remem
 
 ### What I do
 - :sunflower: I'm currently learning Javascript (Vanilla, better learn to swim in the pool before diving in the ocean), Html and Css. 
-- :rocket: I'm currently making a website to know more about space, using APIs (mostly from NASA).
+- :rocket: I'm making a website to know more about space, using APIs (mostly from NASA) and libraries to do data visualization.
 - ⚡ I'm a Git enthousiast : yes, it's weird but I love Git & Github.
 - :book: My retraining is quite a journey, so I document it through my [blog](https://dre-drey.github.io/), which is also a great sandbox for testing some html/css
 
