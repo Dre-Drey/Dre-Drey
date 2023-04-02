@@ -16,6 +16,13 @@ I switched to programmation because I'm a problem solver, I love learning (remem
 - ⚡ I'm a Git enthousiast : yes, it's weird but I love Git & Github.
 - :book: My retraining is quite a journey, so I document it through my [blog](https://dre-drey.github.io/), which is also a great sandbox for testing some html/css. I'm currently doing an API to post and fetch my articles and I plan to redesign this website with React !
 
+### What I'm proud of
+
+- of the collective projects I've done at school, which show the diversity of my learning and my flexibility: notably Wonderflower, a flower sales platform in MERN and [Touiter](https://github.com/Dre-Drey/reseau-social-php), a social network in PHP.
+- of the projects I manage to launch alone, to challenge myself, like my blog or [Blabla Broderies](https://github.com/Dre-Drey/BlablaBroderies). 
+- of the fact that I dare to develop with developers who are much more experienced than I am, it's from them that I learn the most!
+- Finally, this year, I'm proud to have taken on the [Advent of code challenge](https://github.com/Dre-Drey/Advent-of-Code) after only 2 months of coding. I stopped at day 5, but happy to discuss it and do it again next year !!
+
 ### What I dream about
 
 - Of learning more about cybersecurity
