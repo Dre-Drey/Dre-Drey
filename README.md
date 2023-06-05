@@ -14,7 +14,7 @@ I switched to programmation because I'm a problem solver, I love learning (remem
 - ❄ I'm discovering React and about to be a big fan.. But I'd like to give a change to Vue.js !
 - :rocket: I'm making a website to know more about space, using APIs (mostly from NASA) and libraries to do data visualization.
 - ⚡ I'm a Git enthousiast : yes, it's weird but I love Git & Github.
-- :book: My retraining is quite a journey, so I document it through my [blog](https://audreydoyen.com/), which is also a great sandbox for testing some html/css. I'm currently doing an API to post and fetch my articles and I plan to redesign this website with React !
+- :book: My retraining is quite a journey, so I document it through my [blog](https://audreydoyen.com/), which is also a great sandbox for testing some html/css and React (next.js)
 
 ### What I'm proud of
 
