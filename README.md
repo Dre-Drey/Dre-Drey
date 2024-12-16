@@ -10,23 +10,24 @@ I switched to programmation because I'm a problem solver, I love learning (remem
 
 ### What I do
 
-- :running: I'm a proud dev apprentice at [FizzUp](https://conseils.fizzup.com/a-propos/), where I develop the backend of the app in Laravel and the web part of the activities in Nextjs.
+- :running: I'm a proud dev at [FizzUp](https://conseils.fizzup.com/a-propos/), where I develop the backend of the app in Laravel and the web part of the activities in Nextjs.
 - :rocket: I love datavizualisation, so I'm learning D3 and play a lot with bubbles and donuts... which I use in my blog and sides projects.
 - ⚡ I'm a Git enthousiast : yes, it's weird but I love Git & Github.
-- :book: My retraining is quite a journey, so I document it through my [blog](https://audreydoyen.com/), which is also a great sandbox for testing lot of stuffs.
+- :book: I really like writing : I therefore share my interests, my advice and my learnings on my [blog](https://audreydoyen.com/), which is also a great sandbox for testing lot of stuffs.
+
+### Current interest
+- I have phases during which I am deeply interested in a subject. Right now, it's browsers. If you want to discuss V8, I am here, please, be a nerd with me.
 
 ### What I'm proud of
 
-- of the collective projects I've done at school, which show the diversity of my learning and my flexibility: notably Wonderflower, a flower sales platform in MERN and [Touiter](https://github.com/Dre-Drey/reseau-social-php), a social network in PHP.
-- of the projects I manage to launch alone, to challenge myself, like my blog or the period tracker I'm making for my diploma. 
+- of all my projects : lauched alone or with other (great) developers. They keep me up to date and bring me lots of fun. Take a look on my public repositories or on my blog. Don't hesitate to contact me if you want to build something !
+- the 2 talks I gave at Google and Eleven Lab, to share my knowledge with other devs. Find the talks on my site or ping me ! 
 - of the fact that I dare to develop with developers who are much more experienced than I am, it's from them that I learn the most!
 - of the challenges I keep taking on, like the Advent of Code.
 
 ### What I dream about
 
-- Of having the courage to speak in a meetup and share my experience with some more experimented developpers
 - Of making the tech great again: a tech for all, built by diverse people.
-- Of learning more about security
 
 Do no hesitate to [contact me](mailto:au.doyen@gmail.com) if you have some advice, I love to chat !
 
